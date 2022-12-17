@@ -11,7 +11,7 @@ I Logic and Flow (well-formed paragraphs, topic sentences, suitable transitions,
 
 In general I'll use some basic highlighting to denote sections I've reviewed.
 
-${\color{green}Looks \space good}$ - Things I highlight in green I generally find acceptable. $${\color{green}Green}$$
+${\color{green}Looks \space good}$ - Things I highlight in green I generally find acceptable.
 
 ${\color{orange}Fix \space problem}$ - Things I highlight in yellow I think something needs to be fixed.
 
