@@ -20,6 +20,7 @@ ${\color{gray}In \space general \space I'll \space use \space some \space basic 
 # General Suggestions for Improving Writing
 
 * I always recommend the use of Grammarly. Graduate studenta at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
+* The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 * Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
 * You may find it helpful to work on writing assignments in steps.
   * Find relevant content.
