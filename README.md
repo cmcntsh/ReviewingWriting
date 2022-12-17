@@ -27,6 +27,7 @@ ${\color{gray}Topic \space sentences \space of \space paragraphs \space will \sp
   * Order your content in a logical sequence according to the needs of your project.
   * Write a rough draft narrative.
   * Work on flow and logic.
+  * Edit for publication requirements. (length, style, etc.)
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
   * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
     * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021)
