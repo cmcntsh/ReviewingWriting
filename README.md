@@ -13,7 +13,7 @@ This is some information about what I'm usually looking for when reviewing stude
 
 $\colorbox{lightgreen}{Looks good}$ - Things I highlight in green I generally find acceptable.
 
-${\color{orange}Fix \space problem}$ - Things I highlight in yellow I think something needs to be fixed.
+$\colorbox{yellow}{Fix problem}$ - Things I highlight in yellow I think something needs to be fixed.
 
 ${\color{gray}In \space general \space I'll \space use \space some \space basic \space highlighting \space to \space denote \space sections \space I've \space reviewed.}$ Topic sentences of paragraphs will be highlighted in gray. ${\color{lightgreen}Elements \space that \space look \space good \space to \space me \space will \space be \space marked \space in \space green.}$ ${\color{orange}Elements \space that \space look \space problematic \space to \space me \space will \space be \space marked \space in \space yellow.}$ (I’ll usually try to add a note of what I think needs to be fixed when using yellow highlighting.) Suggested changes will be made using track changes in Word. (You can review the changes and accept/reject them individually. You can also use accept all, but you should always review all change suggestions to see if they fit with your intended meaning.) It would be helpful to leave topic sentence highlighting, green highlighting, and unfixed problem highlighting in place as we exchange drafts. This will speed up the review process on subsequent drafts. We can remove the highlighting after the final revision of the paper.
 
