@@ -29,10 +29,15 @@ ${\color{gray}Topic \space sentences \space of \space paragraphs \space will \sp
   * Work on flow and logic.
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
   * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
-    * This site was built using [GitHub Pages](https://pages.github.com/).
     * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021)
+    * [How to Write Strong Paragraphs](https://www.grammarly.com/blog/paragraph-structure/) (Ellis, 2021)
+    * "You may have learned that every paragraph should begin with a topic sentence and be directly relevant to the section in which it appears. Those are good rules of thumb, but applied too strictly they can make your writing seem stiff. The important thing is to structure and arrange your paragraphs so that they lead your readers through the conversation you are orchestrating. Open each paragraph with a sentence or two that signal its key concepts. Doing that will help readers better understand what follows. If your opening doesn't also state the paragraph's point, then your last sentence should. Never bury the point in the middle." (Booth et al, 2016, p. 195)
   * One exercise you can use to evaluate the quality of your paragraphs and the sequence of your logic is called Reverse Outlining.
+    * [Reverse Outlining: An Exercise for Taking Notes and Revising Your Work](https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html) (Purdue Online Writing Lab, n.d.)
+    * [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/) (The Writing Center, n.d.)
   * This work will also consist of evaluating and refining your sentences.
+    * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021)
+    * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
 
 # References
 
