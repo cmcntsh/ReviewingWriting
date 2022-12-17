@@ -29,6 +29,8 @@ ${\color{gray}Topic \space sentences \space of \space paragraphs \space will \sp
   * Work on flow and logic.
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
   * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
+    * This site was built using [GitHub Pages](https://pages.github.com/).
+    * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021)
   * One exercise you can use to evaluate the quality of your paragraphs and the sequence of your logic is called Reverse Outlining.
   * This work will also consist of evaluating and refining your sentences.
 
