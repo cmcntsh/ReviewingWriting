@@ -45,6 +45,10 @@ This link explains how to use [Track Changes in Word](https://support.microsoft.
     * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021)
     * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
 
+### Working with References
+
+* If you're citing other sources in your writing, you need to come up with a system to keep track of your notes and material you use from your references. Here is a demonstration of keeping source notes using [Miro](https://miro.com/). https://youtu.be/jnGM-j52Rss
+
 # References
 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 Links to an external site.
