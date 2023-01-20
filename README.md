@@ -54,7 +54,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 # References
 
-* American Psychological Association. (2020). Publication manual of the American Psychological Association (Seventh ed.). https://doi.org/https://doi.org/10.1037/0000165-000 
+* American Psychological Association. (2020). Publication manual of the American Psychological Association (Seventh ed.). https://doi.org/10.1037/0000165-000 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 Links to an external site.
 * Ellis, M. (2021). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/ Links to an external site.
 * Ellis, M. (2021). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/ Links to an external site.
