@@ -24,6 +24,7 @@ This link explains how to use [Track Changes in Word](https://support.microsoft.
 # General Suggestions for Improving Writing
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
+  * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 * Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
 * You may find it helpful to work on writing assignments in steps.
@@ -33,6 +34,9 @@ This link explains how to use [Track Changes in Word](https://support.microsoft.
   * Write a rough draft narrative.
   * Work on flow and logic.
   * Edit for publication requirements. (length, style, etc.)
+
+### Paragraphs
+
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
   * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
     * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021)
@@ -44,9 +48,18 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * One exercise you can use to evaluate the quality of your paragraphs and the sequence of your logic is called Reverse Outlining.
     * [Reverse Outlining: An Exercise for Taking Notes and Revising Your Work](https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html) (Purdue Online Writing Lab, n.d.)
     * [Reverse Outlines: A Writer's Technique for Examining Organization](https://writing.wisc.edu/handbook/process/reverseoutlines/) (The Writing Center, n.d.)
-  * This work will also consist of evaluating and refining your sentences.
-    * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021)
-    * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
+    
+### Sentences
+    
+* This work will also consist of evaluating and refining your sentences.
+  * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021)
+  * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
+  * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
+    
+### Professional Voice
+
+* [Tone in Business Writing](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/tone_in_business_writing.html) (Purdue Online Writing Lab, 2022)
+* [How to Make Writing Sound More Professional](https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/) (Grammarly Business, 2021)
 
 ### Working with References
 
@@ -60,7 +73,9 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * Ellis, M. (2021). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2021). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
+* Grammarly Business (2021). How to make writing sound more professional. Retrieved February 7, 2023 from https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/
 * Purdue Online Writing Lab. (n.d.). Reverse outlining: An exercise for taking notes and revising your work. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
-* Purdue Online Writing Lab. (2022). On Paragraphs. Purdue University. Retrieved January 25, 2023 from https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html
+* Purdue Online Writing Lab. (2022a).On Paragraphs. Purdue University. Retrieved January 25, 2023 from https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html
+* Purdue Online Writing Lab. (2022b). Tone in business writing. Retrieved February 7, 2023 from https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/tone_in_business_writing.html
 * Streetwriters. (2021, March 15, 2021). How to write excellent sentences: A guide to sentences structure. Streetwriters LLC. Retrieved November 18, 2022 from https://blog.streetwriters.co/how-to-write-good-sentences/
 * The Writing Center. (n.d.). Reverse outlines: A writer's technique for examing organization. University of Wisconsin - Madison. Retrieved November 18, 2022 from https://writing.wisc.edu/handbook/process/reverseoutlines/ 
