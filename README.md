@@ -24,7 +24,7 @@ This link explains how to use [Track Changes in Word](https://support.microsoft.
 # General Suggestions for Improving Writing
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
-  * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
+* (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 * Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
 * You may find it helpful to work on writing assignments in steps.
