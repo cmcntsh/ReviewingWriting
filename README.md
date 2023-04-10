@@ -65,7 +65,12 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 * If you are citing more than a handful of sources in your writing, I recommend using a citation manager. If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
 * If you're citing other sources in your writing, you need to come up with a system to keep track of your notes and material you use from your references. Here is a demonstration of keeping source notes using [Miro](https://miro.com/). https://youtu.be/jnGM-j52Rss
-* I recommend purchasing the most current APA manual. As of 2023 that is APA 7. However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
+* I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
+
+### Genre resources
+
+* A genre is a set of forms or standards expected by a community (Booth et. al., 2016). The genre we focus on in much of academic writing in nursing is the research report with five sections: Introduction, Methods, Results, Discussion, and Conclusion (Booth et. al., 2016).
+* Much quality improvement reporting follows an even more specific standard called Revised Standards for Quality Improvement Reporting Excellence or SQUIRE 2.0 guidelines (Ogrinc et. al., 2015). http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471
 
 # References
 
@@ -75,6 +80,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
 * Grammarly Business (2021). How to make writing sound more professional. Retrieved February 7, 2023 from https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/
+* Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2015). SQUIRE 2.0 (S tandards for QU ality I mprovement R eporting E xcellence): Revised publication guidelines from a detailed consensus process. The Journal of Continuing Education in Nursing, 46(11), 501-507. http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 
 * Purdue Online Writing Lab. (n.d.). Reverse outlining: An exercise for taking notes and revising your work. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
 * Purdue Online Writing Lab. (2022a). On Paragraphs. Purdue University. Retrieved January 25, 2023 from https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html
 * Purdue Online Writing Lab. (2022b). Tone in business writing. Retrieved February 7, 2023 from https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/tone_in_business_writing.html
