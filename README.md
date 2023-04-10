@@ -39,8 +39,8 @@ This link explains how to use [Track Changes in Word](https://support.microsoft.
 
 * A lot of final refinement work will consist of evaluating and refining the content and order of your paragraphs.
   * Here are some nice articles on what you should understand about the purpose of paragraphs and how to structure paragraphs.
-    * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021)
-    * [How to Write Strong Paragraphs](https://www.grammarly.com/blog/paragraph-structure/) (Ellis, 2021)
+    * [The Ultimate Guide to Paragraphs](https://www.grammarly.com/blog/paragraphs/) (Ellis, 2021a)
+    * [How to Write Strong Paragraphs](https://www.grammarly.com/blog/paragraph-structure/) (Ellis, 2022)
     * [On Paragraphs](https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html) (Purdue Online Writing Lab, 2022a)
     * "You may have learned that every paragraph should begin with a topic sentence and be directly relevant to the section in which it appears. Those are good rules of thumb, but applied too strictly they can make your writing seem stiff. The important thing is to structure and arrange your paragraphs so that they lead your readers through the conversation you are orchestrating. Open each paragraph with a sentence or two that signal its key concepts. Doing that will help readers better understand what follows. If your opening doesn't also state the paragraph's point, then your last sentence should. Never bury the point in the middle." (Booth et al, 2016, p. 195)
     * "There is no minimum or maximum sentence length in APA Style. Overuse of short, simple sentences produces choppy prose, however, and overuse of long, involved sentences results in difficult, sometimes incomprehensible, language. Varied sentence length helps readers maintain interest and comprehension. When involved concepts require long sentences, the components should proceed logically. Avoid including multiple ideas in a single sentence; instead, break the sentence into shorter ones. Direct, declarative sentences with simple, common words are usually best.
@@ -52,7 +52,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### Sentences
     
 * This work will also consist of evaluating and refining your sentences.
-  * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021)
+  * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021b)
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
     
@@ -70,8 +70,8 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 * American Psychological Association. (2020). Publication manual of the American Psychological Association (Seventh ed.). https://doi.org/10.1037/0000165-000 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001
-* Ellis, M. (2021). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
-* Ellis, M. (2021). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
+* Ellis, M. (2021a). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
+* Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
 * Grammarly Business (2021). How to make writing sound more professional. Retrieved February 7, 2023 from https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/
 * Purdue Online Writing Lab. (n.d.). Reverse outlining: An exercise for taking notes and revising your work. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
