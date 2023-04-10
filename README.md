@@ -73,6 +73,10 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * A genre is a set of forms or standards expected by a community (Booth et. al., 2016). The genre we focus on in much of academic writing in nursing is the research report with five sections: Introduction, Methods, Results, Discussion, and Conclusion (Booth et. al., 2016).
 * Much quality improvement reporting follows an even more specific standard called Revised Standards for Quality Improvement Reporting Excellence or SQUIRE 2.0 guidelines (Ogrinc et. al., 2015). SQUIRE 2.0 follows a slightly shorter version of the five part research report called Introduction, Methods, Results, and Discussion (IMRAD). http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471
 
+### Publishing
+
+* Publishing quality improvement https://qsen.org/wp-content/uploads/2015/06/Getting-your-work-published-Demystifying-the-SQUIR.pptx
+
 # References
 
 * American Psychological Association. (2020). Publication manual of the American Psychological Association (Seventh ed.). https://doi.org/10.1037/0000165-000 
