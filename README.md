@@ -76,6 +76,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### Publishing
 
 * Publishing quality improvement https://qsen.org/wp-content/uploads/2015/06/Getting-your-work-published-Demystifying-the-SQUIR.pptx
+* Writing publishable work https://nursing.duke.edu/sites/default/files/oermann_christenbery_turner_writing_reviews_res_qi_ebp.pdf
 
 # References
 
