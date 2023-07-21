@@ -11,6 +11,8 @@ This is some information about what I'm usually looking for when reviewing stude
 
 ### Highlighting:
 
+![highlighting example](HighlightingFeedback.png)
+
 $\textcolor{lightgreen}{Looks good}$ - Things I highlight in green I generally find acceptable.
 
 $\color{gold}{Fix problem}$ - Things I highlight in yellow I think something needs to be fixed.
