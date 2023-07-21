@@ -11,7 +11,7 @@ This is some information about what I'm usually looking for when reviewing stude
 
 ### Highlighting:
 
-$`\colorbox{lightgreen}{Looks good}`$ - Things I highlight in green I generally find acceptable.
+$\colorbox{lightgreen}{Looks good}$ - Things I highlight in green I generally find acceptable.
 
 $\colorbox{yellow}{Fix problem}$ - Things I highlight in yellow I think something needs to be fixed.
 
