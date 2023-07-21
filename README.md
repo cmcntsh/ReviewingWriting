@@ -13,12 +13,6 @@ This is some information about what I'm usually looking for when reviewing stude
 
 ![highlighting example](HighlightingFeedback.png)
 
-$\textcolor{lightgreen}{Looks good}$ - Things I highlight in green I generally find acceptable.
-
-$\color{gold}{Fix problem}$ - Things I highlight in yellow I think something needs to be fixed.
-
-$\color{lightgray}{In general I'll use some basic highlighting to denote sections I've reviewed.}$ Topic sentences of paragraphs will be highlighted in gray. $\colorbox{lightgreen}{Elements}$ that look good to me will be marked in green. I'll usually just mark the first word of sentences. $\colorbox{yellow}{Elements}$ that look problematic to me will be marked in yellow. (I’ll usually try to add a note of what I think needs to be fixed when using yellow highlighting.) Suggested changes will be made using track changes in Word. (You can review the changes and accept/reject them individually. You can also use accept all, but you should always review all change suggestions to see if they fit with your intended meaning.) It would be helpful to leave topic sentence highlighting, green highlighting, and unfixed problem highlighting in place as we exchange drafts. This will speed up the review process on subsequent drafts. We can remove the highlighting after the final revision of the paper.
-
 ### Track Changes and comments in Word:
 
 * This link explains how to use [Track Changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a).
