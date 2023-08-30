@@ -62,6 +62,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### Working with References
 
 * If you are citing more than a handful of sources in your writing, I recommend using a citation manager. If you're a student at the University of Utah, EndNote is available for a reasonable cost from the [Office of Software Licensing](https://software-catalog.app.utah.edu/product/1076).
+* Zotero is available for free. It has some nice integration with web browsers and allows you to share references with groups. https://www.zotero.org/
 * If you're citing other sources in your writing, you need to come up with a system to keep track of your notes and material you use from your references. Here is a demonstration of keeping source notes using [Miro](https://miro.com/). https://youtu.be/jnGM-j52Rss
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
 * Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
