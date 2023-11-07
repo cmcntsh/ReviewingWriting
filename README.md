@@ -53,6 +53,16 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Better Sentences](https://www.grammarly.com/blog/sentences/) (Ellis, 2021b)
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
+ 
+#### Reader Expectation Approach
+
+* Arrange information according to reader expectations (Lingard, 2022).
+* [Writing for the reader: Using reader expectation principles to maximize clarity]([https://blog.streetwriters.co/how-to-write-good-sentences/](https://link.springer.com/article/10.1007/s40037-022-00708-w#:~:text=clarity%20and%20flow.-,The%20reader%20expectation%20approach,put%E2%80%9D%20%5B2%2C%20p.))
+* Any sentence should address the following questions:
+  * What is going on?
+  * Who's story is it?
+  * How does this sentence connect with the preceding sentence?
+  * Which words should be emphasized in the sentence?
     
 ### Professional Voice
 
@@ -86,6 +96,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 * Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
 * Grammarly Business (2021). How to make writing sound more professional. Retrieved February 7, 2023 from https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/
+* Lingard, L. (2022). Writing for the reader: Using reader expectation principles to maximize clarity. Perspectives on Medical Education, 11(4), 228–231. https://doi.org/10.1007/S40037-022-00708-W
 * Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2015). SQUIRE 2.0 (S tandards for QU ality I mprovement R eporting E xcellence): Revised publication guidelines from a detailed consensus process. The Journal of Continuing Education in Nursing, 46(11), 501-507. http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 
 * Purdue Online Writing Lab. (n.d.). Reverse outlining: An exercise for taking notes and revising your work. Purdue University. Retrieved November 18, 2022 from https://owl.purdue.edu/owl/general_writing/the_writing_process/reverse_outlining.html
 * Purdue Online Writing Lab. (2022a). On Paragraphs. Purdue University. Retrieved January 25, 2023 from https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html
