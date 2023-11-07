@@ -58,6 +58,7 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 * Arrange information according to reader expectations (Lingard, 2022).
 * [Writing for the reader: Using reader expectation principles to maximize clarity](https://link.springer.com/article/10.1007/s40037-022-00708-w#:~:text=clarity%20and%20flow.-,The%20reader%20expectation%20approach,put%E2%80%9D%20%5B2%2C%20p.)
+* https://www.georgegopen.net/
 * Any sentence should address the following questions:
   * What is going on?
   * Who's story is it?
