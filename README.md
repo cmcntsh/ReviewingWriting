@@ -54,6 +54,10 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
   * [How to Write Excellent Sentences: A Guide to Sentences Structure](https://blog.streetwriters.co/how-to-write-good-sentences/) (Streetwriters, 2021)
   * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences.
  
+### Stylistic Choices, Reader Interpretation, Nuanced Writing
+
+* I attended a presentation by a professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of writings, but I **HIGHLY** recommend his series of articles on litigation. (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. In them he describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points?And how to write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.)
+
 #### Reader Expectation Approach
 
 * Arrange information according to reader expectations (Lingard, 2022).
