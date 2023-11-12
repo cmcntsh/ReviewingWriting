@@ -56,18 +56,42 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
  
 ### Stylistic Choices, Reader Interpretation, Nuanced Writing
 
-* I attended a presentation by a professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of writings, but I **HIGHLY** recommend his series of articles on litigation. (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. In them he describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points?And how to write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.)
+* I attended a presentation by a professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of writings, but I **HIGHLY** recommend his series of articles on litigation. (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. He describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points? And how do you write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.) After I read through the articles, I wondered to myself how I made it through 52 years of life and over 20 years of formal education and had not heard of some of the things he teaches.
 
-#### Reader Expectation Approach
+You can find links to his articles on his website. https://www.georgegopen.com/litigation-articles.html (A couple of his articles didn't have a link, but I was able to find them on Google.) I will group them by main topics here.
 
-* Arrange information according to reader expectations (Lingard, 2022).
-* [Writing for the reader: Using reader expectation principles to maximize clarity](https://link.springer.com/article/10.1007/s40037-022-00708-w#:~:text=clarity%20and%20flow.-,The%20reader%20expectation%20approach,put%E2%80%9D%20%5B2%2C%20p.)
-* https://www.georgegopen.net/
-* Any sentence should address the following questions:
-  * What is going on?
-  * Who's story is it?
-  * How does this sentence connect with the preceding sentence?
-  * Which words should be emphasized in the sentence?
+#### Writing for School vs. Writing for Real
+
+* #30 Understanding How Our Concept of the Writing Task Got Arrested at the Student Level and What to Do about It
+
+#### Overview of the Reader Expectation Approach
+
+I recommend starting with the last article in the series.
+
+* #42 Ave atque Vale:  Retrospective Thoughts as I Lay Down My Pen
+
+#### Explanations of Punctuation
+
+* #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash
+
+#### Great Advice for Delivering Presentations
+
+* #41 Killing Me Softly with Your Song: Learning to Know How Your Audience Goes about Understanding You
+
+#### Rhythm of Writing & Analyses of Rhetoric to Illustrate Some Points
+
+These are interesting to read, but are more advanced in application. They may take some time to incorporate into your own writing. (Start with the other material.)
+
+* #31 What Have the Muses Got to Do with Legal Writing?
+* #32 What, in Addition to Its Contents, Makes the Gettysburg Address So Memorable
+* #33 Mr. Lincoln’s Music: The Tuning of the Final Paragraph of the Second Inaugural Address
+* #34 The First Two Paragraphs of Lincoln’s 2nd Inaugural Address
+* #35 Mr. Lincoln’s Music: The Thorny and Monumental Third Paragraph of the Second Inaugural Address
+* #36 The Power of Balance: Writing Lessons to Be Learned from John F. Kennedy’s Inaugural Address
+* #37 Failed Rhetoric:  Why No One Can Recall a Single Sentence of Richard Nixon’s Speech Announcing the End of the Viet Nam War
+* #38 A Dog in Time: The Extraordinary Success of Richard Nixon’s 1952 “Checkers” Speech
+* #39 The Rhetorical Reasons Why Martin Luther King’s “I have a dream speech” Is One of the Greatest 20th Century American Oratorical Gems
+* #40 Judicial Musings: How Rhythm Helps Characterize Opinions
     
 ### Professional Voice
 
