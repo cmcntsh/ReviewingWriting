@@ -60,28 +60,64 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 
 You can find links to his articles on his website. https://www.georgegopen.com/litigation-articles.html (A couple of his articles didn't have a link, but I was able to find them on Google.) I will group them by main topics here.
 
-#### Writing for School vs. Writing for Real
+#### Writing for School vs. Writing for Real (The real reasons we learn to write.)
 
+* #13 Misconceiving the Writing Task: The Tollbooth Syndrome
 * #30 Understanding How Our Concept of the Writing Task Got Arrested at the Student Level and What to Do about It
 
 #### Overview of the Reader Expectation Approach
 
-I recommend starting with the last article in the series.
+I recommend starting with the first and last articles in the series.
 
+* #1 A New Approach to Legal Writing
 * #42 Ave atque Vale:  Retrospective Thoughts as I Lay Down My Pen
+
+#### Sentence Construction
+
+* #2 The Importance of Stress: Indicating the Most Important Words in a Sentence
+* #3 Ensuring Readers Know What Actions Are Happening in Any Sentence
+* #4 Whose Story Is This Sentence? Directing Readers’ Perception of Narrative
+* #5 Controlling the Reader’s Perception of Your Client’s Story
+* #6 Who Done It? Controlling Agency in Legal Writing — Part I
+* #7 Who Done It? Controlling Agency in Legal Writing, Part II
+* #8 How to Overburden Your Reader: Separate Your Subject from Your Verb
+* #9 The Style Proclaims the Lawyer: You Are What You Write
+* #10 Why the Passive Voice Should Be Used and Appreciated — Not Avoided
+* #11 Controlling Crowded Sentences
+* #12 The #2 Problem in Legal Writing: Solved
+* #14 Communicating Preference: Fred and His Dog
+* #15 Important: Avoid Beginning Sentences with “The Court Held That. . .”
+* #16 A Micro-Journey Through a Sentence of Horrors
+* #18 The Progress of Thought: To Move Forward, Link Backward
+
+#### Paragraph Construction
+
+* #19 What’s at Issue? The Construction of the English Paragraph, Part I
+* #20 What’s at Issue? The Construction of the English Paragraph, Part II
+* #21 Connectivity: The Construction of the English Paragraph, Part III
+* #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV
+* #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V
+* #24 How Paragraphs Speak to Each Other
 
 #### Explanations of Punctuation
 
+* #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence
 * #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash
 
 #### Great Advice for Delivering Presentations
 
 * #41 Killing Me Softly with Your Song: Learning to Know How Your Audience Goes about Understanding You
 
+#### Avoid Slavish Dedication to Rules
+
+* #17 Irrational Rules: Minuscule Mysteries of Grammar Demystified
+* #26 Numbers Do Lie: Why “To Make It Better, Make It Shorter” Is Inadequate Advice
+
 #### Rhythm of Writing & Analyses of Rhetoric to Illustrate Some Points
 
 These are interesting to read, but are more advanced in application. They may take some time to incorporate into your own writing. (Start with the other material.)
 
+* #27 Bad News
 * #31 What Have the Muses Got to Do with Legal Writing?
 * #32 What, in Addition to Its Contents, Makes the Gettysburg Address So Memorable
 * #33 Mr. Lincoln’s Music: The Tuning of the Final Paragraph of the Second Inaugural Address
