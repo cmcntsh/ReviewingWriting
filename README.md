@@ -57,6 +57,10 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### Stylistic Choices, Reader Interpretation, Nuanced Writing
 
 * I attended a presentation by an emeritus professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of works, but I **HIGHLY** recommend his series of articles on litigation. They're free to access and easy to digest (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. He describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points? And how do you write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.) I might mention that he has consulted on writing grant proposals that have been awarded hundreds of millions of dollars in research funding.
+* I liked his articles so much, I purchased one of his books. *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen
+  * The book is available on Amazon, but it's pricey.
+  * I have summarized some of the main points at https://github.com/cmcntsh/ReaderExpectationApproachWriting
+  * In the book he goes into more depth about paragraph structure and purpose, provides a lot more examples, and suggests a process for revising your writing.
 
 You can find links to his articles on his website. https://www.georgegopen.com/litigation-articles.html (A couple of his articles didn't have a link, but I was able to find them on Google.) I will group them by main topics here.
 
@@ -160,6 +164,7 @@ These are interesting to read, but are more advanced in application. They may ta
 * Ellis, M. (2021a). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
 * Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
+* Gopen, G. D. (2004). Expectations: Teaching writing from a reader’s perspective. Pearson Longman.
 * Grammarly Business (2021). How to make writing sound more professional. Retrieved February 7, 2023 from https://www.grammarly.com/business/learn/how-to-make-your-writing-sound-more-professional/
 * Lingard, L. (2022). Writing for the reader: Using reader expectation principles to maximize clarity. Perspectives on Medical Education, 11(4), 228–231. https://doi.org/10.1007/S40037-022-00708-W
 * Ogrinc, G., Davies, L., Goodman, D., Batalden, P., Davidoff, F., & Stevens, D. (2015). SQUIRE 2.0 (S tandards for QU ality I mprovement R eporting E xcellence): Revised publication guidelines from a detailed consensus process. The Journal of Continuing Education in Nursing, 46(11), 501-507. http://www.squire-statement.org/index.cfm?fuseaction=Page.ViewPage&PageID=471 
