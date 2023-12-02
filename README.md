@@ -57,12 +57,8 @@ Similar cautions apply to paragraph length. Single-sentence paragraphs are abrup
 ### Stylistic Choices, Reader Interpretation, Nuanced Writing
 
 * I attended a presentation by an emeritus professor of rhetoric named George Gopen in 2023, where I was introduced to the Reader Expectation Approach to writing. The gist of his method is that the writer needs to consider how readers of English prose usually interpret the meaning of sentences and write so readers are more likely to interpret the intended meaning of a work. Dr. Gopen has published a number of works, but I **HIGHLY** recommend his series of articles on litigation. They're free to access and easy to digest (Available at https://www.georgegopen.com/litigation-articles.html) Most of the articles are 1-2 pages long. He describes how to structure writing to facilitate reader interpretation of the intended meaning. He answers such questions as: When should passive voice be used? When is a sentence too long or too short? How to reinforce key points? And how do you write for clarity and ease of reading? (You may wonder what articles on litigation have to do with scientific or academic writing. The answer is scientific and academic writing is usually about making an argument and supporting it with evidence. If you read the articles, you will see they are very relevant.) I might mention that he has consulted on writing grant proposals that have been awarded hundreds of millions of dollars in research funding.
-* I liked his articles so much, I purchased one of his books. *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen
-  * The book is available on Amazon, but it's pricey.
-  * I have summarized some of the main points at https://github.com/cmcntsh/ReaderExpectationApproachWriting
-  * In the book he goes into more depth about paragraph structure and purpose, provides a lot more examples, and suggests a process for revising your writing.
 
-You can find links to his articles on his website. https://www.georgegopen.com/litigation-articles.html (A couple of his articles didn't have a link, but I was able to find them on Google.) I will group them by main topics here.
+You can find links to his articles on his website. https://www.georgegopen.com/litigation-articles.html (A couple of his articles didn't have a link, but I was able to find them on Google.) I will group them by main topics here. Items **in bold** seem more foundational to me. I wouldn't skip over those.
 
 #### Writing for School vs. Writing for Real (The real reasons we learn to write.)
 
@@ -73,40 +69,40 @@ You can find links to his articles on his website. https://www.georgegopen.com/l
 
 I recommend starting with the first and last articles in the series.
 
-* #1 A New Approach to Legal Writing
-* #42 Ave atque Vale:  Retrospective Thoughts as I Lay Down My Pen
+* **#1 A New Approach to Legal Writing**
+* **#42 Ave atque Vale:  Retrospective Thoughts as I Lay Down My Pen**
 
 #### Sentence Construction
 
-* #2 The Importance of Stress: Indicating the Most Important Words in a Sentence
-* #3 Ensuring Readers Know What Actions Are Happening in Any Sentence
-* #4 Whose Story Is This Sentence? Directing Readers’ Perception of Narrative
+* **#2 The Importance of Stress: Indicating the Most Important Words in a Sentence**
+* **#3 Ensuring Readers Know What Actions Are Happening in Any Sentence**
+* **#4 Whose Story Is This Sentence? Directing Readers’ Perception of Narrative**
 * #5 Controlling the Reader’s Perception of Your Client’s Story
 * #6 Who Done It? Controlling Agency in Legal Writing — Part I
-* #7 Who Done It? Controlling Agency in Legal Writing, Part II
-* #8 How to Overburden Your Reader: Separate Your Subject from Your Verb
+* **#7 Who Done It? Controlling Agency in Legal Writing, Part II**
+* **#8 How to Overburden Your Reader: Separate Your Subject from Your Verb**
 * #9 The Style Proclaims the Lawyer: You Are What You Write
-* #10 Why the Passive Voice Should Be Used and Appreciated — Not Avoided
+* **#10 Why the Passive Voice Should Be Used and Appreciated — Not Avoided**
 * #11 Controlling Crowded Sentences
-* #12 The #2 Problem in Legal Writing: Solved
+* **#12 The #2 Problem in Legal Writing: Solved**
 * #14 Communicating Preference: Fred and His Dog
 * #15 Important: Avoid Beginning Sentences with “The Court Held That. . .”
 * #16 A Micro-Journey Through a Sentence of Horrors
-* #18 The Progress of Thought: To Move Forward, Link Backward
+* **#18 The Progress of Thought: To Move Forward, Link Backward**
 
 #### Paragraph Construction
 
-* #19 What’s at Issue? The Construction of the English Paragraph, Part I
-* #20 What’s at Issue? The Construction of the English Paragraph, Part II
-* #21 Connectivity: The Construction of the English Paragraph, Part III
-* #22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV
-* #23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V
-* #24 How Paragraphs Speak to Each Other
+* **#19 What’s at Issue? The Construction of the English Paragraph, Part I**
+* **#20 What’s at Issue? The Construction of the English Paragraph, Part II**
+* **#21 Connectivity: The Construction of the English Paragraph, Part III**
+* **#22 The Point of a Paragraph and Where to Find It: The Construction of the English Paragraph, Part IV**
+* **#23 Five Varieties of Point Placement: The Construction of the English Paragraph, Part V**
+* **#24 How Paragraphs Speak to Each Other**
 
 #### Explanations of Punctuation
 
-* #25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence
-* #29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash
+* **#25 A Quiver of Punctuation: How to Handle Two Clauses in One Sentence**
+* **#29 A Once Rogue Punctuation Mark Gains Respectability: What You Can Now Accomplish with an M-Dash**
 
 #### Great Advice for Delivering Presentations
 
@@ -132,6 +128,13 @@ These are interesting to read, but are more advanced in application. They may ta
 * #38 A Dog in Time: The Extraordinary Success of Richard Nixon’s 1952 “Checkers” Speech
 * #39 The Rhetorical Reasons Why Martin Luther King’s “I have a dream speech” Is One of the Greatest 20th Century American Oratorical Gems
 * #40 Judicial Musings: How Rhythm Helps Characterize Opinions
+
+### Additional Writings by George Gopen
+
+* I liked his articles so much, I purchased one of his books. *Expectations: Teaching Writing from the Reader's Perspective* by George D. Gopen
+  * The book is available on Amazon, but it's pricey.
+  * I have summarized some of the main points at https://github.com/cmcntsh/ReaderExpectationApproachWriting
+  * In the book he goes into more depth about paragraph structure and purpose, provides a lot more examples, and suggests a process for revising your writing.
     
 ### Professional Voice
 
