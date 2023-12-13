@@ -22,7 +22,7 @@ This is some information about what I'm usually looking for when reviewing stude
 
 * I always recommend the use of Grammarly. Graduate students at the U of U have free access. https://gradschool.utah.edu/resources-hub/grammarly/index.php 
 * (new in 2023) ChatGPT (https://openai.com/blog/chatgpt/) can also help fix problem sentences and more. Here are some [examples](https://github.com/cmcntsh/UseChatGPtEdit) of things I've tried.
-* (new in December, 2023) Google has released a new model called Gemini. (bard.google.com) Similar prompts may work on that platform.
+* (new in December, 2023) Google has released a new model called Gemini. (https://bard.google.com/chat) Similar prompts may work on that platform.
 * (new in 2023) APA has come out with guidance on citing ChatGPT https://apastyle.apa.org/blog/how-to-cite-chatgpt
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 * Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
