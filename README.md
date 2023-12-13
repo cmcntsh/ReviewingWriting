@@ -151,6 +151,11 @@ These are interesting to read, but are more advanced in application. They may ta
 * I recommend purchasing the most current APA manual. As of 2023 that is APA 7 (American Psychological Association, 2020). However, many things can be looked up online on the APA Style Blog https://apastyle.apa.org/
 * Searching for Literature https://github.com/cmcntsh/LitSearchAIResources
 
+### Evaluating Evidence
+
+* If you need to evaluate the strength of evidence, use a recognized framework.
+* The Johns Hopkins model is suitable for evaluating a wide range of evidence (Dang et al., 2021). 
+
 ### Genre resources
 
 * A genre is a set of forms or standards expected by a community (Booth et. al., 2016). The genre we focus on in much of academic writing in nursing is the research report with five sections: Introduction, Methods, Results, Discussion, and Conclusion (Booth et. al., 2016).
@@ -165,6 +170,7 @@ These are interesting to read, but are more advanced in application. They may ta
 
 * American Psychological Association. (2020). Publication manual of the American Psychological Association (Seventh ed.). https://doi.org/10.1037/0000165-000 
 * Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001
+* Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition). Sigma Theta Tau International.
 * Ellis, M. (2021a). The ultimate guide to paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraphs/
 * Ellis, M. (2021b). How to write better sentences. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/sentences/
 * Ellis, M. (2022, June 2, 2022). How to write strong paragraphs. Grammarly, Inc. Retrieved November 18 from https://www.grammarly.com/blog/paragraph-structure/
