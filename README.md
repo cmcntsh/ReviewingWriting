@@ -27,6 +27,7 @@ This is some information about what I'm usually looking for when reviewing stude
 * The [Graduate Student Writing Center](https://writingcenter.utah.edu/) is a good resource.
 * Understand that writing is an iterative process. Be prepared to complete assignments, receive feedback, and incorporate feedback into revisions.
 * You may find it helpful to work on writing assignments in steps.
+  * (2024 update) I have created a more comprehensive page about the stepwise writing process. Much of the content of this page has been provided there but organized according to specific steps in the writing process. https://github.com/cmcntsh/PoWeRWritingGradStudents
   * Find relevant content.
   * Group content into logical categories according to the needs of your project.
   * Order your content in a logical sequence according to the needs of your project.
